@@ -78,6 +78,6 @@ To run `feature-6`, execute `python3 six.py`
 
 ## HERE ARE SOME RESOURCES TO LEARN MORE ABOUT GIT
 
-[^1]: [W3 Schools](https://www.w3schools.com/git/git_intro.asp?remote=github)
-[^2]: [Git Documentation](https://git-scm.com/doc)
-[^3]: [FreeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
+1. [W3 Schools](https://www.w3schools.com/git/git_intro.asp?remote=github)
+2. [Git Documentation](https://git-scm.com/doc)
+3. [FreeCodeCamp](https://www.youtube.com/watch?v=RGOj5yH7evk)
